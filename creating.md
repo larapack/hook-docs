@@ -61,3 +61,7 @@ You may read more on this on Composer's website.
 
 ### providers
 As an extra thing, you can define the service providers that you wish to load once the hook have been enabled.
+
+## Installation
+
+Once you have created your local hook, you can install your it by running `php artisan hook:install NAME` (replace `NAME` with the name of your hook).
